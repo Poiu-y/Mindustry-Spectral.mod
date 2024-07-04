@@ -1,3 +1,5 @@
+this mod is wip do not take anything for granted below is the text that came with the
+mod template.
 # Mindustry Java Mod Template
 A Java Mindustry mod template that works on Android and PC. The Kotlin version of this mod can be seen [here](https://github.com/Anuken/MindustryKotlinModTemplate).
 
