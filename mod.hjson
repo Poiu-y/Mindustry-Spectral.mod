@@ -1,8 +1,8 @@
 #the mod name as displayed in-game
-displayName: "Java Mod Template"
+displayName: "mindustry spectral"
 
 #the internal name of your mod
-name: "example-java-mod"
+name: "spectral-java-mod"
 
 #your name
 author: "You"
@@ -11,7 +11,7 @@ author: "You"
 main: "example.ExampleJavaMod"
 
 #the mod description as seen in the mod dialog
-description: "A Mindustry Java mod template."
+description: "lore: planet detected initiating, landing sequence. Err unknown weaponry detected, are you sure you want to launch."
 
 #the mod version
 version: 1.0
